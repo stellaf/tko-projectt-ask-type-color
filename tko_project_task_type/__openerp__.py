@@ -24,13 +24,13 @@
 
 {
     'name': 'Project task type with colours',
-    'version': '9.0.003',
+    'version': '10.003',
     'category': 'Customizations',
     'sequence': 14,
     'complexity': 'medium',
-    'description': '''== This module adds a task type field ==\n
+    'description': '''== This module adds a task type field works for V10==\n
 Each type will have a colour. This makes easy to identify the tasks types in kanban through their colours.''',
-    'author': 'ThinkOpen Solutions Brasil and Stella Fredö upgrde it to V9',
+    'author': 'ThinkOpen Solutions Brasil',
     'website': 'http://www.tkobr.com',
     'depends': [
                 'base',
